@@ -12,7 +12,7 @@
 	  <a href="https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip">https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip</a> 
 	  the project directory.</li> 
      <ul class="task-list">
-	  <li>The project directory structure should look like this (shown first 2 levels only):</li>
+	  <li>The project directory structure should look like this (shown first 2 levels only):
 	 <pre><code>c:\coursera_assesment
    |- [data] 
    |   |-  [test] 
@@ -21,7 +21,7 @@
    |   |-  features.txt
    |   |-  features_info.txt
    |   |-  README.txt
-   |- run_analysis.R</code></pre>	 
+   |- run_analysis.R</code></pre></li>	 
 	 </ul>
 	</ul>  
   <h2><a id="user-content-Dependencies" class="anchor" href="#Dependencies" aria-hidden="true">
