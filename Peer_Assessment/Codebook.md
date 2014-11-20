@@ -131,13 +131,13 @@ mso-ansi-language:EN-US'>File list:<o:p></o:p></span></b></p>
  style='margin-left:19.6pt;border-collapse:collapse;border:none;mso-border-alt:
  solid windowtext .5pt;mso-yfti-tbllook:1184;mso-padding-alt:0cm 5.4pt 0cm 5.4pt'>
  <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes'>
-  <td width=123 valign=top style='width:92.15pt;border:solid windowtext 1.0pt;
+  <td valign=top style='width:92.15pt;border:solid windowtext 1.0pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
   <p style='margin:0cm;margin-bottom:.0001pt'><span lang=EN-US
   style='font-size:8.0pt;font-family:"Helvetica","sans-serif";color:#333333;
   mso-ansi-language:EN-US'>README.txt<o:p></o:p></span></p>
   </td>
-  <td width=350 valign=top style='width:262.2pt;border:solid windowtext 1.0pt;
+  <td valign=top style='width:262.2pt;border:solid windowtext 1.0pt;
   border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
   solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
   <p style='margin:0cm;margin-bottom:.0001pt'><b style='mso-bidi-font-weight:
