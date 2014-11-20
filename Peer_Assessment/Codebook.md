@@ -343,10 +343,10 @@ mso-fareast-font-family:Helvetica;color:#333333;mso-ansi-language:EN-US'><span
 style='mso-list:Ignore'>1.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;
 </span></span></span><![endif]><span lang=EN-US style='font-size:8.0pt;
 font-family:"Helvetica","sans-serif";mso-bidi-font-family:"Times New Roman";
-color:#333333;mso-ansi-language:EN-US'>Replaced “</span><span lang=EN-US
+color:#333333;mso-ansi-language:EN-US'>Replaced </span><span lang=EN-US
 style='font-size:8.0pt;font-family:"Helvetica","sans-serif";mso-bidi-font-family:
-"Times New Roman";mso-ansi-language:EN-US'>mean” <span style='color:#333333'>with
-“</span>Mean”<span style='color:#333333'><o:p></o:p></span></span></p>
+"Times New Roman";mso-ansi-language:EN-US'><code>mean</code> <span style='color:#333333'>with
+</span><code>Mean</code><span style='color:#333333'><o:p></o:p></span></span></p>
 
 <p style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;margin-left:35.7pt;
 margin-bottom:.0001pt;text-indent:-17.85pt;mso-list:l9 level1 lfo10'><![if !supportLists]><span
