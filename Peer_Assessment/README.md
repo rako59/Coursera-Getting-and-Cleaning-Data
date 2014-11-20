@@ -12,6 +12,16 @@
 	  <a href="https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip">https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip</a> 
 	  the project directory.</li> 
      <ul class="task-list">
+	  <li>The project directory structure should look like this (shown first 2 levels only):</li>
+	 <pre><code>c:\coursera_assesment
+   |- [data] 
+   |   |-  [test] 
+   |   |-  [train] 
+   |   |-  activity_labels.txt
+   |   |-  features.txt
+   |   |-  features_info.txt
+   |   |-  README.txt
+   |- run_analysis.R</code></pre>	 
 	 </ul>
 	</ul>  
   <h2><a id="user-content-Dependencies" class="anchor" href="#Dependencies" aria-hidden="true">
@@ -20,11 +30,12 @@
   <h2><a id="user-content-Running-the-analysis" class="anchor" href="#Running-the-analysis" aria-hidden="true">
       <span class="octicon octicon-link"></span></a>Running the analysis</h2>	 
 	  
-  <h2><a id="user-content-Codebook" class="anchor" href="#Codebook" aria-hidden="true">
+  <h2><a id="user-content-codebook" class="anchor" href="#codebook" aria-hidden="true">
       <span class="octicon octicon-link"></span></a>Codebook</h2>	
    <ul class="task-list"> 
     <li>Information about the datasets is provided in <code>CodeBook.md</code>.</li>    
-   </ul>	  	   
+   </ul>	
+   
   <h2><a id="user-content-Code" class="anchor" href="#Code" aria-hidden="true">
       <span class="octicon octicon-link"></span></a>Code</h2>	  
    <ul class="task-list"> 
