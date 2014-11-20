@@ -355,10 +355,10 @@ mso-fareast-font-family:Helvetica;color:#333333;mso-ansi-language:EN-US'><span
 style='mso-list:Ignore'>2.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;
 </span></span></span><![endif]><span lang=EN-US style='font-size:8.0pt;
 font-family:"Helvetica","sans-serif";mso-bidi-font-family:"Times New Roman";
-color:#333333;mso-ansi-language:EN-US'>Replaced “</span><span lang=EN-US
+color:#333333;mso-ansi-language:EN-US'>Replaced </span><span lang=EN-US
 style='font-size:8.0pt;font-family:"Helvetica","sans-serif";mso-bidi-font-family:
-"Times New Roman";mso-ansi-language:EN-US'>std” <span style='color:#333333'>with
-“</span>Std”<span style='color:#333333'><o:p></o:p></span></span></p>
+"Times New Roman";mso-ansi-language:EN-US'><code>std</code> <span style='color:#333333'>with
+</span><code>Std</code><span style='color:#333333'><o:p></o:p></span></span></p>
 
 <p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
 margin-left:36.0pt;margin-bottom:.0001pt;text-indent:-18.0pt;line-height:normal;
@@ -368,11 +368,11 @@ Helvetica;color:#333333;mso-ansi-language:EN-US'><span style='mso-list:Ignore'>3
 style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><![endif]><span
 lang=EN-US style='font-size:8.0pt;font-family:"Helvetica","sans-serif";
 mso-fareast-font-family:"Times New Roman";mso-bidi-font-family:"Times New Roman";
-color:#333333;mso-ansi-language:EN-US;mso-fareast-language:PL'>Replaced prefix “</span><span
+color:#333333;mso-ansi-language:EN-US;mso-fareast-language:PL'>Replaced prefix </span><span
 lang=EN-US style='font-size:8.0pt;font-family:"Helvetica","sans-serif";
 mso-fareast-font-family:"Times New Roman";mso-bidi-font-family:"Times New Roman";
-mso-ansi-language:EN-US;mso-fareast-language:PL'>t” with <span
-style='color:#333333'>“</span>time”<span style='color:#333333'>, to make</span></span><span
+mso-ansi-language:EN-US;mso-fareast-language:PL'><code>t</code> with <span
+style='color:#333333'></span><code>time</code><span style='color:#333333'>, to make</span></span><span
 lang=EN-US style='font-size:8.0pt;font-family:"Helvetica","sans-serif";
 color:#333333;mso-ansi-language:EN-US'> it clear that feature corresponds to
 the time domain<o:p></o:p></span></p>
@@ -385,11 +385,11 @@ Helvetica;color:#333333;mso-ansi-language:EN-US'><span style='mso-list:Ignore'>4
 style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><![endif]><span
 lang=EN-US style='font-size:8.0pt;font-family:"Helvetica","sans-serif";
 mso-fareast-font-family:"Times New Roman";mso-bidi-font-family:"Times New Roman";
-color:#333333;mso-ansi-language:EN-US;mso-fareast-language:PL'>Replaced prefix “</span><span
+color:#333333;mso-ansi-language:EN-US;mso-fareast-language:PL'>Replaced prefix </span><span
 lang=EN-US style='font-size:8.0pt;font-family:"Helvetica","sans-serif";
 mso-fareast-font-family:"Times New Roman";mso-bidi-font-family:"Times New Roman";
-mso-ansi-language:EN-US;mso-fareast-language:PL'>f” with<span style='color:
-#333333'> “</span>freq”<span style='color:#333333'>, to</span></span><span
+mso-ansi-language:EN-US;mso-fareast-language:PL'><code>f</code> with<span style='color:
+#333333'> </span><code>freq</code><span style='color:#333333'>, to</span></span><span
 lang=EN-US style='font-size:8.0pt;font-family:"Helvetica","sans-serif";
 color:#333333;mso-ansi-language:EN-US'> make it clear that feature corresponds
 to the frequency domain<o:p></o:p></span></p>
@@ -401,9 +401,9 @@ mso-fareast-font-family:Helvetica;color:#333333;mso-ansi-language:EN-US'><span
 style='mso-list:Ignore'>5.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;
 </span></span></span><![endif]><span lang=EN-US style='font-size:8.0pt;
 font-family:"Helvetica","sans-serif";mso-bidi-font-family:"Times New Roman";
-color:#333333;mso-ansi-language:EN-US'>Removed: “</span><span lang=EN-US
+color:#333333;mso-ansi-language:EN-US'>Removed: </span><span lang=EN-US
 style='font-size:8.0pt;font-family:"Helvetica","sans-serif";mso-bidi-font-family:
-"Times New Roman";mso-ansi-language:EN-US'>(“,”)”,”_”<span style='color:#333333'><o:p></o:p></span></span></p>
+"Times New Roman";mso-ansi-language:EN-US'><code>(“,”)”,”_”</code><span style='color:#333333'><o:p></o:p></span></span></p>
 
 <p style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;margin-left:35.7pt;
 margin-bottom:.0001pt;text-indent:-17.85pt;mso-list:l9 level1 lfo10'><![if !supportLists]><span
@@ -412,12 +412,12 @@ mso-fareast-font-family:Helvetica;color:#333333;mso-ansi-language:EN-US'><span
 style='mso-list:Ignore'>6.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;
 </span></span></span><![endif]><span lang=EN-US style='font-size:8.0pt;
 font-family:"Helvetica","sans-serif";mso-bidi-font-family:"Times New Roman";
-color:#333333;mso-ansi-language:EN-US'>Replaced “</span><span class=SpellE><span
+color:#333333;mso-ansi-language:EN-US'>Replaced </span><span class=SpellE><span
 lang=EN-US style='font-size:8.0pt;font-family:"Helvetica","sans-serif";
-mso-bidi-font-family:"Times New Roman";mso-ansi-language:EN-US'>BodyBody</span></span><span
+mso-bidi-font-family:"Times New Roman";mso-ansi-language:EN-US'><code>BodyBody</code></span></span><span
 lang=EN-US style='font-size:8.0pt;font-family:"Helvetica","sans-serif";
 mso-bidi-font-family:"Times New Roman";mso-ansi-language:EN-US'>” <span
-style='color:#333333'>with “</span>Body”<span style='color:#333333'><o:p></o:p></span></span></p>
+style='color:#333333'>with </span><code>Body</code><span style='color:#333333'><o:p></o:p></span></span></p>
 
 <p style='margin-top:0cm;margin-right:0cm;margin-bottom:8.0pt;margin-left:0cm;
 line-height:12.8pt;box-sizing: border-box;orphans: auto;text-align:start;
@@ -462,7 +462,7 @@ mso-bidi-font-family:"Times New Roman";mso-ansi-language:EN-US'>&quot;mean\\(</s
 style='font-size:8.0pt;font-family:"Helvetica","sans-serif";mso-bidi-font-family:
 "Times New Roman"'><a href="file:///\\)|std\(\)"><span lang=EN-US
 style='color:#333333;mso-ansi-language:EN-US;text-decoration:none;text-underline:
-none'>\\)|std\\(\\)</span></a></span><span lang=EN-US style='font-size:8.0pt;
+none'><code>\\)|std\\(\\)</code></span></a></span><span lang=EN-US style='font-size:8.0pt;
 font-family:"Helvetica","sans-serif";mso-bidi-font-family:"Times New Roman";
 mso-ansi-language:EN-US'>&quot;<o:p></o:p></span></p>
 
