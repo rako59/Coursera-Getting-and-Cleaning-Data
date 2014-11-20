@@ -10,8 +10,8 @@ flush.console()
 
 RequireOrInstall <- function(package) {
   suppressWarnings({
-    if (!require(package,character.only=TRUE)) {
-      installPackage <- readline(paste("Package",package,"not found. Install? (y for yes, otherwise for no): "))
+    if (!require(package, character.only=TRUE)) {
+      installPackage <- readline(paste("Package", package, "not found. Install? (y for yes, otherwise for no): "))
       if (installPackage == "y") {
         install.packages(package)
       }
@@ -121,8 +121,8 @@ dim(JoinData) # 10299*66
 
 ## tidy column names
 names(JoinData) <- gsub("\\(\\)", "", FeaturesData[FeaturesMenStd, 2])           # set name & remove "()"
-names(JoinData) <- gsub("^t", "Time", names(JoinData), ignore.case = TRUE)       # Time
-names(JoinData) <- gsub("^f", "Freq", names(JoinData), ignore.case = TRUE)       # Freq
+names(JoinData) <- gsub("^t", "time", names(JoinData), ignore.case = TRUE)       # time
+names(JoinData) <- gsub("^f", "freq", names(JoinData), ignore.case = TRUE)       # treq
 names(JoinData) <- gsub("BodyBody", "Body", names(JoinData), ignore.case = TRUE) # BodyBody
 names(JoinData) <- gsub("mean", "Mean", names(JoinData), ignore.case = TRUE)     # Mean
 names(JoinData) <- gsub("std", "Std", names(JoinData), ignore.case = TRUE)       # Std
