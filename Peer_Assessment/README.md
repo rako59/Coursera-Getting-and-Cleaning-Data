@@ -6,7 +6,7 @@
   <h2><a id="user-content-installation" class="anchor" href="#installation" aria-hidden="true">
       <span class="octicon octicon-link"></span></a>Installation</h2>
    <ul class="task-list">
-    <li>Create a <code>project_directory</code> for this assessment (In my computer "c:\coursera_assesment").</li>
+    <li>Create a <code>project_directory</code> for this assessment (my was "c:\coursera_assesment").</li>
     <li>Download the script <code>run_analysis.R</code> to the project directory.</li>	  
 	<li>Download the raw data from 
 	  <a href="https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip">https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip</a> 
@@ -34,8 +34,16 @@
 	    If you have not installed them, you will be prompted a choice to do so.</li>
    </ul>	  
   <h2><a id="user-content-Running-the-analysis" class="anchor" href="#Running-the-analysis" aria-hidden="true">
-      <span class="octicon octicon-link"></span></a>Running the analysis</h2>	 
-	  
+      <span class="octicon octicon-link"></span></a>Running the analysis</h2>	
+   <ul class="task-list">
+     <li>Change the <b>working directory</b> in R to the <code>project_directory</code> (my was:  "c:\coursera_assesment").</li>
+     <li>Source the script run_analysis.R in R: <code>source("run_analysis.R")</code></li>	
+     <li>Two datasets will be written to the <code>project_directory</code>: </li>	 
+	 <ul class="task-list">
+	  <li>uci-harusd-tidy-raw-data.txt     (tidy joined data, created after Step 4.)</li>
+	  <li>uci-harusd-tidy-means-data.txt   (tidy data with means, created after Step 5.)</li>
+	 </ul>
+   </ul>  
   <h2><a id="user-content-codebook" class="anchor" href="#codebook" aria-hidden="true">
       <span class="octicon octicon-link"></span></a>Codebook</h2>	
    <ul class="task-list"> 
