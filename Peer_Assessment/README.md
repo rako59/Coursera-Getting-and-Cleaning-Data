@@ -6,7 +6,7 @@
       <span class="octicon octicon-link"></span></a>Installation</h2>
 	  
    <ul class="task-list">
-    <li>Create a <code>project_directory</code> for this assessment (my was "c:\coursera_assesment").</li>
+    <li>Create a <code>project_directory</code> for this assessment (in my computer "c:\coursera_assesment").</li>
     <li>Download the script <code>run_analysis.R</code> to the project directory.</li>	  
 	<li>Download the raw data from 
 	  <a href="https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip">https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip</a> 
@@ -16,7 +16,7 @@
       <li>Rename that folder with <code>data</code>.</li>
       <li>You can delete the zip file after this step.</li> 
 	  <li>The project directory structure should look like this (shown first 2 levels only):
-	 <pre><code>project_directory (In my computer "c:\coursera_assesment")
+	 <pre><code>project_directory (in my computer "c:\coursera_assesment")
    |- [data] 
    |   |-  [test] 
    |   |-  [train] 
@@ -40,9 +40,9 @@
       <span class="octicon octicon-link"></span></a>Running the analysis</h2>	
 	  
    <ul class="task-list">
-     <li>Change the <b>working directory</b> in R to the <code>project_directory</code> (my was:  "c:\coursera_assesment").</li>
+     <li>Change the <b>working directory</b> in R to the <code>project_directory</code> (in my computer "c:\coursera_assesment").</li>
      <li>Source the script run_analysis.R in R: <code>source("run_analysis.R")</code> </li>	
-     <li>Two datasets will be written to the <code>project_directory</code>: </li>	 
+     <li>Two datasets will be written to the <b>working directory</b>: </li>	 
 	 <ul class="task-list">
 	  <li>uci-harusd-tidy-raw-data.txt     (tidy joined data, created after Step 4.)</li>
 	  <li>uci-harusd-tidy-means-data.txt   (tidy data with means, created after Step 5.)</li>
