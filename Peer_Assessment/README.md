@@ -22,12 +22,12 @@
 	  
   <h2><a id="user-content-Codebook" class="anchor" href="#Codebook" aria-hidden="true">
       <span class="octicon octicon-link"></span></a>Codebook</h2>	
-   <ul> 
+   <ul class="task-list"> 
     <li>Information about the datasets is provided in <code>CodeBook.md</code>.</li>    
    </ul>	  	   
   <h2><a id="user-content-Code" class="anchor" href="#Code" aria-hidden="true">
       <span class="octicon octicon-link"></span></a>Code</h2>	  
-   <ul> 
+   <ul class="task-list"> 
     <li>The code contains detailed commments explaining the steps in which the original data was transformed.</li>    
    </ul>	  
   </body>
