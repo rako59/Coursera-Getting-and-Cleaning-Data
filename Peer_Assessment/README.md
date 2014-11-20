@@ -6,14 +6,17 @@
   <h2><a id="user-content-installation" class="anchor" href="#installation" aria-hidden="true">
       <span class="octicon octicon-link"></span></a>Installation</h2>
    <ul class="task-list">
-    <li>Create a project directory for this assessment (In my computer:  <code>c:\coursera_assesment</code>)</li>
+    <li>Create a <code>project_directory</code> for this assessment (In my computer "c:\coursera_assesment")</li>
     <li>Download the script <code>run_analysis.R</code> to the project directory</li>	  
 	<li>Download the raw data from 
 	  <a href="https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip">https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip</a> 
 	  the project directory.</li> 
      <ul class="task-list">
+	  <li>Unzip it - this will create a new (sub)folder "<code>UCI HAR Dataset</code>.</li>
+      <li>Rename that folder with <code>data</code>.</li>
+      <li>You can delete the zip file after this step.</li> 
 	  <li>The project directory structure should look like this (shown first 2 levels only):
-	 <pre><code>c:\coursera_assesment
+	 <pre><code>project_directory (In my computer "c:\coursera_assesment")
    |- [data] 
    |   |-  [test] 
    |   |-  [train] 
