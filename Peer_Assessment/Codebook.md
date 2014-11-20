@@ -146,14 +146,14 @@ mso-ansi-language:EN-US'>File list:<o:p></o:p></span></b></p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:1'>
-  <td width=123 valign=top style='width:92.15pt;border:solid windowtext 1.0pt;
+  <td valign=top style='width:92.15pt;border:solid windowtext 1.0pt;
   border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt'>
   <p style='margin:0cm;margin-bottom:.0001pt'><span lang=EN-US
   style='font-size:8.0pt;font-family:"Helvetica","sans-serif";color:#333333;
   mso-ansi-language:EN-US'>features_info.txt<o:p></o:p></span></p>
   </td>
-  <td width=350 valign=top style='width:262.2pt;border-top:none;border-left:
+  <td valign=top style='width:262.2pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
@@ -164,14 +164,14 @@ mso-ansi-language:EN-US'>File list:<o:p></o:p></span></b></p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:2'>
-  <td width=123 valign=top style='width:92.15pt;border:solid windowtext 1.0pt;
+  <td valign=top style='width:92.15pt;border:solid windowtext 1.0pt;
   border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt'>
   <p style='margin:0cm;margin-bottom:.0001pt'><span lang=EN-US
   style='font-size:8.0pt;font-family:"Helvetica","sans-serif";color:#333333;
   mso-ansi-language:EN-US'>features.txt<o:p></o:p></span></p>
   </td>
-  <td width=350 valign=top style='width:262.2pt;border-top:none;border-left:
+  <td valign=top style='width:262.2pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
@@ -181,14 +181,14 @@ mso-ansi-language:EN-US'>File list:<o:p></o:p></span></b></p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:3'>
-  <td width=123 valign=top style='width:92.15pt;border:solid windowtext 1.0pt;
+  <td valign=top style='width:92.15pt;border:solid windowtext 1.0pt;
   border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt'>
   <p style='margin:0cm;margin-bottom:.0001pt'><span lang=EN-US
   style='font-size:8.0pt;font-family:"Helvetica","sans-serif";color:#333333;
   mso-ansi-language:EN-US'>activity_labels.txt<o:p></o:p></span></p>
   </td>
-  <td width=350 valign=top style='width:262.2pt;border-top:none;border-left:
+  <td valign=top style='width:262.2pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
@@ -198,14 +198,14 @@ mso-ansi-language:EN-US'>File list:<o:p></o:p></span></b></p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:4'>
-  <td width=123 valign=top style='width:92.15pt;border:solid windowtext 1.0pt;
+  <td valign=top style='width:92.15pt;border:solid windowtext 1.0pt;
   border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt'>
   <p style='margin:0cm;margin-bottom:.0001pt'><span lang=EN-US
   style='font-size:8.0pt;font-family:"Helvetica","sans-serif";color:#333333;
   mso-ansi-language:EN-US'>train/X_train.txt<o:p></o:p></span></p>
   </td>
-  <td width=350 valign=top style='width:262.2pt;border-top:none;border-left:
+  <td valign=top style='width:262.2pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
@@ -215,14 +215,14 @@ mso-ansi-language:EN-US'>File list:<o:p></o:p></span></b></p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:5'>
-  <td width=123 valign=top style='width:92.15pt;border:solid windowtext 1.0pt;
+  <td valign=top style='width:92.15pt;border:solid windowtext 1.0pt;
   border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt'>
   <p style='margin:0cm;margin-bottom:.0001pt'><span lang=EN-US
   style='font-size:8.0pt;font-family:"Helvetica","sans-serif";color:#333333;
   mso-ansi-language:EN-US'>train/y_train.txt<o:p></o:p></span></p>
   </td>
-  <td width=350 valign=top style='width:262.2pt;border-top:none;border-left:
+  <td valign=top style='width:262.2pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
@@ -232,14 +232,14 @@ mso-ansi-language:EN-US'>File list:<o:p></o:p></span></b></p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:6'>
-  <td width=123 valign=top style='width:92.15pt;border:solid windowtext 1.0pt;
+  <td valign=top style='width:92.15pt;border:solid windowtext 1.0pt;
   border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt'>
   <p style='margin:0cm;margin-bottom:.0001pt'><span lang=EN-US
   style='font-size:8.0pt;font-family:"Helvetica","sans-serif";color:#333333;
   mso-ansi-language:EN-US'>train/subject_train.txt<o:p></o:p></span></p>
   </td>
-  <td width=350 valign=top style='width:262.2pt;border-top:none;border-left:
+  <td valign=top style='width:262.2pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
@@ -250,14 +250,14 @@ mso-ansi-language:EN-US'>File list:<o:p></o:p></span></b></p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:7'>
-  <td width=123 valign=top style='width:92.15pt;border:solid windowtext 1.0pt;
+  <td valign=top style='width:92.15pt;border:solid windowtext 1.0pt;
   border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt'>
   <p style='margin:0cm;margin-bottom:.0001pt'><span lang=EN-US
   style='font-size:8.0pt;font-family:"Helvetica","sans-serif";color:#333333;
   mso-ansi-language:EN-US'>test/X_test.txt<o:p></o:p></span></p>
   </td>
-  <td width=350 valign=top style='width:262.2pt;border-top:none;border-left:
+  <td valign=top style='width:262.2pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
@@ -267,14 +267,14 @@ mso-ansi-language:EN-US'>File list:<o:p></o:p></span></b></p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:8'>
-  <td width=123 valign=top style='width:92.15pt;border:solid windowtext 1.0pt;
+  <td valign=top style='width:92.15pt;border:solid windowtext 1.0pt;
   border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt'>
   <p style='margin:0cm;margin-bottom:.0001pt'><span lang=EN-US
   style='font-size:8.0pt;font-family:"Helvetica","sans-serif";color:#333333;
   mso-ansi-language:EN-US'>test/y_test.txt<o:p></o:p></span></p>
   </td>
-  <td width=350 valign=top style='width:262.2pt;border-top:none;border-left:
+  <td valign=top style='width:262.2pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
@@ -284,14 +284,14 @@ mso-ansi-language:EN-US'>File list:<o:p></o:p></span></b></p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:9;mso-yfti-lastrow:yes'>
-  <td width=123 valign=top style='width:92.15pt;border:solid windowtext 1.0pt;
+  <td valign=top style='width:92.15pt;border:solid windowtext 1.0pt;
   border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt'>
   <p style='margin:0cm;margin-bottom:.0001pt'><span lang=EN-US
   style='font-size:8.0pt;font-family:"Helvetica","sans-serif";color:#333333;
   mso-ansi-language:EN-US'>test/subject_train.txt<o:p></o:p></span></p>
   </td>
-  <td width=350 valign=top style='width:262.2pt;border-top:none;border-left:
+  <td valign=top style='width:262.2pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
