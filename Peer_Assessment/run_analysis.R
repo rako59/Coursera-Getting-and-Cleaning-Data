@@ -30,8 +30,8 @@ flush.console()
 ## A. Unzip the data from https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 ##    and rename the folder with "data".
 ## B. Check the folder "data" and the assesment.R script are in the current working directory.
-# setwd("c:/coursera_assesment/") ## set to your working directory
-# dir()
+##    setwd("c:/coursera_assesment/") ## set the working directory
+##    dir()
 
 ##
 ## Read the TRAIN SET file list ================================================
