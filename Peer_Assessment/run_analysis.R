@@ -2,10 +2,10 @@
 ## #############################################################################
 ## Check if dependencies are installed and require them.                 #######
 ## =============================================================================
-print("-----------------------------------------------------------------------")
-print("The script run_analysis.R depends on the library data.table.")
-print("If you have not installed them, you will be prompted a choice to do so.")
-print("-----------------------------------------------------------------------")
+message("-----------------------------------------------------------------------")
+message("The script run_analysis.R depends on the library data.table.")
+message("If you have not installed them, you will be prompted a choice to do so.")
+message("-----------------------------------------------------------------------")
 flush.console()
 
 RequireOrInstall <- function(package) {
@@ -24,7 +24,7 @@ RequireOrInstall("data.table")
 ## #############################################################################
 ## Step 1. Merges the training and the test sets to create one data set. #######
 ## =============================================================================
-print("Step 1. Merges the training and the test sets to create one data set.")
+message("Step 1. Merges the training and the test sets to create one data set.")
 flush.console()
 
 ## A. Unzip the data from https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
@@ -102,7 +102,7 @@ dim(JoinSubject) # 10299*1
 ## Step 2. Extracts only the measurements on the mean and standard deviation  ##
 ##         for each measurement.                                              ##
 ## =============================================================================
-print("Step 2. Extracts only the measurements on the mean and standard deviation for each measurement.") 
+message("Step 2. Extracts only the measurements on the mean and standard deviation for each measurement.") 
 flush.console()
 
 ## read features
@@ -133,7 +133,7 @@ head(JoinData)
 ## Step 3. Uses descriptive activity names to name the activities 
 ## in the data set                                                            ##
 ## =============================================================================
-print("Step 3. Uses descriptive activity names to name the activities in the data set.")
+message("Step 3. Uses descriptive activity names to name the activities in the data set.")
 flush.console()
 
 ## read activity descriptions
@@ -161,7 +161,7 @@ table(JoinLabel)
 ## #############################################################################
 ## Step 4. Appropriately labels the data set with descriptive variable names. ##                                                            ##
 ## =============================================================================
-print("Step 4. Appropriately labels the data set with descriptive variable names.")
+message("Step 4. Appropriately labels the data set with descriptive variable names.")
 flush.console()
 
 names(JoinSubject) <- "subject"
@@ -177,7 +177,7 @@ write.table(TidyData, "uci-harusd-tidy-raw-data.txt", row.name=FALSE) # write ou
 ##         independent tidy data set with the average                         ##
 ##         of each variable for each activity and each subject.               ##
 ## =============================================================================
-print("Step 5. From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.")
+message("Step 5. From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.")
 flush.console()
 
 library(data.table)
@@ -189,8 +189,8 @@ result <- TidyData.t[, lapply(.SD, mean), by=list(subject,activity)]
 ## export 2nd file
 write.table(result, "uci-harusd-tidy-means-data.txt", row.name=FALSE, quote = FALSE) # write out 2nd dataset
 
-print("=======================================================================")
-print("Processing finished")
-print("Tidy RAW   dataset is in file: uci-harusd-tidy-raw-data.txt")
-print("Tidy MEANS dataset is in file: uci-harusd-tidy-means-data.txt")
-
+message("=======================================================================")
+message("Processing finished")
+message("Tidy RAW   dataset is in file: uci-harusd-tidy-raw-data.txt")
+message("Tidy MEANS dataset is in file: uci-harusd-tidy-means-data.txt")
+flush.console()
